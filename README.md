@@ -3,3 +3,4 @@ OS assignment 242 Semester.
 <p>1. fork the repository.</p>
 <p>2. replace the file in the forked repository with your changed one.</p>
 <p>3. create a pull request.</p>
+<p><i>*The repository is already executable with included object files. Run "make all" in WSL.</i></p>
